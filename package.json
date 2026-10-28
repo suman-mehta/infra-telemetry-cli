@@ -1,0 +1,23 @@
+{
+  "name": "infra-telemetry-cli",
+  "version": "1.0.0",
+  "description": "CLI for aggregating cloud infrastructure logs and visualizing telemetry dashboards",
+  "type": "module",
+  "bin": {
+    "infra-telemetry": "./src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "developer-tools",
+    "automation",
+    "cli",
+    "nodejs",
+    "cloud",
+    "devops",
+    "monitoring"
+  ],
+  "author": "Suman Mehta",
+  "license": "MIT"
+}
